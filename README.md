@@ -10,15 +10,15 @@ Na realização desse programa, foram criados tabelas para representarem os obje
 
 ### Tabela de Quarto
 
-![zfra_quarto](media\zfra_quarto.png)
+![zfra_quarto](media/zfra_quarto.png)
 
 ### Tabela de Hóspede
 
-![zfra_hospede](media\zfra_hospede.png)
+![zfra_hospede](media/zfra_hospede.png)
 
 ### Tabela de Reservas
 
-![zfra_reservas](media\zfra_reservas.png)
+![zfra_reservas](media/zfra_reservas.png)
 
 ## Conhecimentos adquiridos para o programa
 
